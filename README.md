@@ -1,5 +1,5 @@
 <h1>RocketQ</h1>
-<h2>Essa é uma aplicação onde o usuário poder criar uma sala e receber perguntas de outros usuários anônimos nessa sala privada. Um projeto com uso de NodeJS, Express, EJS e HTML proposto pela Profº Jakeliny da Rocketseat na NLW Together.</h2>
+<h2>Essa é uma aplicação onde o usuário poder criar uma sala e receber perguntas de outros usuários anônimos nessa sala privada. Um projeto com uso de NodeJS, Express, JavaScript e HTML  proposto pela Profº Jakeliny da Rocketseat na NLW Together.</h2>
 
 <h3>Tecnologias utilizadas no projeto:</h3>
   <div style="display: inline_block">
@@ -7,6 +7,7 @@
     <img align="center" alt="Thiago-HTML" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="Thiago-CSS" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="Thiago-NodeJS" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Thiago-Express" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   </div>
   
 ##
